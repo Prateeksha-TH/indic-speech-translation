@@ -2,6 +2,12 @@
 
 A Streamlit application for translating speech between Indian languages using cutting-edge AI models.
 
+## 🚀 Live Demo
+
+🔗 https://indic-speech-translation-y6egahvzpqvbstjnxcp5pz.streamlit.app/
+
+---
+
 ## Features
 
 ✅ **Automatic Speech Recognition (ASR)** - Whisper  
@@ -10,6 +16,24 @@ A Streamlit application for translating speech between Indian languages using cu
 ✅ **Support for Multiple Indic Languages** - Hindi, Tamil, Telugu, Kannada, Bengali, Marathi, Gujarati, Punjabi  
 ✅ **Real-time Processing** - Fast inference with GPU support  
 ✅ **User-Friendly Interface** - Modern Streamlit UI  
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Translation Interface
+
+![Translation](screenshots/translation.png)
+
+### Output
+
+![Output](screenshots/output.png)
+
+---
 
 ## System Requirements
 
