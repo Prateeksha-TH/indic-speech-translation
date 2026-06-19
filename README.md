@@ -23,17 +23,16 @@ A Streamlit application for translating speech between Indian languages using cu
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshot%20(143).png)
 
 ### Translation Interface
 
-![Translation](screenshots/translation.png)
+![Translation Interface](Screenshot%20(150).png)
 
 ### Output
 
-![Output](screenshots/output.png)
+![Output](Screenshot%20(151).png)
 
----
 
 ## System Requirements
 
